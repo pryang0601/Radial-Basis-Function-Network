@@ -3,7 +3,7 @@
 ### Language: Python
 ### GUI tool: wxPython
 
-Users can use the GUI to choose the dataset in the <b>Dataset folder</b>: train4dAll or train6dAll.</br>
+Users can use the GUI to choose the dataset in the <b>Dataset folder</b>: train4dAll.txt or train6dAll.txt.</br>
 "軌跡座標點" is the x-y point in the graph</br>
 Press the "RUN" buttom to start the training process.</br>
 After training, users can see the car simulator(circle) in the left side of the GUI.</br>
