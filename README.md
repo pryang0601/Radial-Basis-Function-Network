@@ -3,11 +3,15 @@
 ### Language: Python
 ### GUI tool: wxPython
 
-Users can use the GUI to choose the dataset: train4dAll or train6dAll.</br>
-"軌跡座標點" is the x-y point in the graph
+Users can use the GUI to choose the dataset in the <b>Dataset folder</b>: train4dAll or train6dAll.</br>
+"軌跡座標點" is the x-y point in the graph</br>
 Press the "RUN" buttom to start the training process.</br>
 After training, users can see the car simulator(circle) in the left side of the GUI.</br>
-System will record the trace of the car in the "track4D.txt" and "track6D.txt"</br>
+System will record the trace of the car in the "track4D.txt" and "track6D.txt"(in the Result folder)</br>
+<ul>
+  <li>kmeans4d.py is for initializing the parameters for RBFN4d.py</li>
+  <li>kmeans6d.py is for initializing the parameters for RBFN6d.py</li>
+</ul>
 
 You can see the result of "gif" format file in the <b>Result folder</b></br>
 In the results, users can see:
