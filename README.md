@@ -4,8 +4,12 @@
 ### GUI tool: wxPython
 
 Users can use the GUI to choose the dataset: train4dAll or train6dAll.</br>
+"軌跡座標點" is the x-y point in the graph
 Press the "RUN" buttom to start the training process.</br>
 After training, users can see the car simulator(circle) in the left side of the GUI.</br>
+System will record the trace of the car in the "track4D.txt" and "track6D.txt"</br>
+
+You can see the result of "gif" format file in the <b>Result folder</b></br>
 In the results, users can see:
 <ol>
   <li> Direction: based on the front set as 90 degree, turn right as positive, turn left as negative</li>
