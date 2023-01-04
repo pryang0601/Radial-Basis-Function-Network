@@ -1,5 +1,4 @@
 # Radial-Basis-Function-Network
-## RBFN Homework from Neural Network Course in National Central University
 ### Language: Python
 ### GUI tool: wxPython
 
